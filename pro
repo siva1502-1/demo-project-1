@@ -138,5 +138,3 @@
 </script>
 </body>
 </html>
-
-this is the new line 1
